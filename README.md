@@ -12,4 +12,4 @@ Kibana or Splunk users who wants to learn this new way of running piped query la
 - Python 3 Installed
 
 # Let's go!
-Click here to begin
+[Click here to begin](tutorial.md)
